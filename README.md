@@ -1,1 +1,1 @@
-自用OPenclash配置规则
+自用Openclash配置规则
