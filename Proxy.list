@@ -22,16 +22,13 @@ DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
 # 其他网站
-DOMAIN-SUFFIX,beupisp.com
+DOMAIN-SUFFIX,hdhive.com
 DOMAIN-SUFFIX,a4k.net
 DOMAIN-SUFFIX,smogfly.cloud
 DOMAIN-SUFFIX,fanart.tv
 DOMAIN-SUFFIX,ttt.sh
 DOMAIN-SUFFIX,cloudns.org
 DOMAIN-SUFFIX,torrentleech.org
-DOMAIN-SUFFIX,cloudfisher.one
-DOMAIN-SUFFIX,cloudfisher.cc
-DOMAIN-SUFFIX,cloudfisher.net
 DOMAIN-SUFFIX,caiyun.pw
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,cacapex.com
